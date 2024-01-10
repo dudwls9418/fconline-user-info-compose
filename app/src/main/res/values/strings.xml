@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">fconline_user</string>
+    <string name="nickname_hint">구단주명을 입력해주세요.</string>
 </resources>

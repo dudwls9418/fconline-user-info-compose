@@ -1,4 +1,4 @@
-package com.fconline.user.ui.theme
+package com.fconline.user.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
